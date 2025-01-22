@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devansh Pandey</h1>
 <h3 align="center">A passionate Artificial Intelligence from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/ShphQRiwlEgAAAAd/matrix-code.gif">
+<img align="right" alt="Coding" height="900" width="1000" src="https://media1.tenor.com/m/ShphQRiwlEgAAAAd/matrix-code.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsdevansh333&label=Profile%20views&color=0e75b6&style=flat" alt="itsdevansh333" /> </p>
